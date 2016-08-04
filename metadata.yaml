@@ -1,0 +1,30 @@
+_repo: John-F.-Kennedy-s-Inaugural-Address_3
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kennedy, John F. (John Fitzgerald)
+    aliases:
+    - Kennedy, John Fitzgerald
+    - United States President (1961-1963)
+    - Kennedy, Jack
+    birthdate: 1917
+    deathdate: 1963
+    gutenberg_agent_id: '1666'
+    url: http://www.gutenberg.org/2009/agents/1666
+    wikipedia: http://en.wikipedia.org/wiki/John_F._Kennedy
+description: ''
+gutenberg_issued: '1973-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presidents -- United States -- Inaugural addresses'
+- !lcsh 'United States -- Foreign relations -- 1961-1963'
+- !lcc 'E838'
+- GITenberg
+title: John F. Kennedy's Inaugural Address
+url: http://www.gutenberg.org/ebooks/3
